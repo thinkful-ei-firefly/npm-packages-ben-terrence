@@ -2,6 +2,7 @@ import $ from 'jquery';
 import api from './api';
 import store from './store';
 import shoppingList from './shoppingList';
+import 'normalize.css';
 import './index.css';
 
 $(document).ready(function() {

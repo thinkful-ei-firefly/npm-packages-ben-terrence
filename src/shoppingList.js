@@ -1,4 +1,6 @@
-// eslint-disable-next-line no-unused-vars
+import $ from 'jquery';
+import api from './api';
+import store from './store';
 
 function generateError(message) {
   return `

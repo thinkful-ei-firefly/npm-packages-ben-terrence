@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-firefly/npm-packages-ben-terrence/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-firefly/npm-packages-ben-terrence#readme"
+  "homepage": "https://github.com/thinkful-ei-firefly/npm-packages-ben-terrence#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
